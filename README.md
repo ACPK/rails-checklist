@@ -39,6 +39,7 @@ A checklist of things to look at to ensure that your Rails setup is pitch perfec
 
 - [ ] Bullet is being used to catch n+1s.
 - [ ] Better Errors is being used to provide better error pages.
+- [ ] Spring or Zeus are being used to improve the application load time.
 
 ## Production
 
