@@ -14,6 +14,7 @@ A checklist of things to look at to ensure that your Rails setup is pitch perfec
   ```ruby
   javascript_include_tag 'application', 'data-turbolinks-track' => true, async: !Rails.application.config.assets.debug
   ```
+
 - [ ] Assets are cached through a CDN
 - [ ] If using Bootstrap or Foundation, ensure that you're only using the components that you require.
 - [ ] Images and videos are stored on an asset server such as AWS S3.
